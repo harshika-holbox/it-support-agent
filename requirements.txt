@@ -3,3 +3,5 @@ boto3
 bedrock-agentcore
 bedrock-agentcore-starter-toolkit
 python-dotenv
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
